@@ -1,4 +1,3 @@
 # SiteC_MvmtAnalysis
-Working repository for Site C Movement Analysis in R
+Github repository for Site C Movement Analysis in R Scripts
 
-Did this change work? 
