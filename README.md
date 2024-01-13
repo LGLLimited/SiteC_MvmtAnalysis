@@ -1,2 +1,2 @@
 # SiteC_MvmtAnalysis
-Processes and R code for movement analyses
+Working repository for Site C Movement Analysis in R
